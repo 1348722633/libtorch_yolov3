@@ -13,7 +13,8 @@ Unzip the compressed package and write /path/to/libtorch1.2.0/libtorch-win-share
 4.Download the opencv, you can get from
 [opencv](https://pan.baidu.com/s/1u5jdKE-RvV910_ATBAQiUQ)
 提取码：pu2n
-Unzip the compressed package and write /path/to/opencv/build/x64/vc14/bin, /path/to/opencv/build to the Windows PATH. Then create system variables OpenCV_DIR, the value is /path/to/opencv/build.
+Unzip the compressed package and write /path/to/opencv/build/x64/vc14/bin, /path/to/opencv/build to the Windows PATH. 
+Then create system variables OpenCV_DIR, the value is /path/to/opencv/build.
 
 5.Download the code
 ```
@@ -32,4 +33,4 @@ cmake .. -G"Visual Studio 14 2015 Win64"
 6.Then open the .sln file and Generate release version.
 
 ### Example
-![e317d4aab616c75cabd8726c9ebcebed.jpeg](en-resource://database/501:0)
+e317d4aab616c75cabd8726c9ebcebed.jpeg
