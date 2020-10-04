@@ -31,4 +31,4 @@ cmake .. -G"Visual Studio 14 2015 Win64"
 ```
 6.Then open the .sln file and Generate release version.
 ### Example
-![result.jpg]https://github.com/1348722633/libtorch_yolov3/blob/master/example/result.jpg
+![result.jpg](https://github.com/1348722633/libtorch_yolov3/blob/master/example/result.jpg)
