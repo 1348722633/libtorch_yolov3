@@ -31,6 +31,3 @@ cd build
 cmake .. -G"Visual Studio 14 2015 Win64"
 ```
 6.Then open the .sln file and Generate release version.
-
-### Example
-e317d4aab616c75cabd8726c9ebcebed.jpeg
